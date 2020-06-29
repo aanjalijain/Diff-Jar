@@ -1,0 +1,1 @@
+This project basically calculate the difference between two jar files on the basis of their size and last modified date and time and outputs us with a thirs jar which conatins the diff part of both the jar.
